@@ -39,19 +39,19 @@ The system is complemented by a Flutter-based mobile application and an MIT App 
 
 <div style="display: flex; justify-content: space-between;">
   <div style="text-align: center;">
-    <img src="https://github.com/user-attachments/assets/5d34a6fa-5259-4f49-ac9c-91ab9993d9c3" alt="Login Screen" width="200px"/>
+    <img src="https://github.com/JayarajChippada/Car-accident-detection-and-Recorder-box/blob/main/Screenshots/Login-Screen.jpg?raw=true" alt="Login Screen" width="200px"/>
     <p>Login Screen</p>
   </div>
   <div style="text-align: center;">
-    <img src="https://github.com/user-attachments/assets/6c95457c-5b28-4fad-8d21-5f2af0af0794" alt="Home Screen" width="200px"/>
+    <img src="https://github.com/JayarajChippada/Car-accident-detection-and-Recorder-box/blob/main/Screenshots/Home-Screen.jpg?raw=true" alt="Home Screen" width="200px"/>
     <p>Home Screen</p>
   </div>
   <div style="text-align: center;">
-    <img src="https://github.com/user-attachments/assets/2b1052a7-eec6-4f5d-b29c-a4182acea5a6" alt="Alert Notification" width="200px"/>
+    <img src="https://github.com/JayarajChippada/Car-accident-detection-and-Recorder-box/blob/main/Screenshots/Home-Screen-Alert.jpg?raw=true" alt="Alert Notification" width="200px"/>
     <p>Alert Notification</p>
   </div>
   <div style="text-align: center;">
-    <img src="https://github.com/user-attachments/assets/0398b5f7-9d2a-45cd-b8b0-bfe383d08b9a" alt="GPS" width="200px"/>
+    <img src="https://github.com/JayarajChippada/Car-accident-detection-and-Recorder-box/blob/main/Screenshots/GPS-Screen.jpg?raw=true" alt="GPS" width="200px"/>
     <p>GPS</p>
   </div>
 </div>
